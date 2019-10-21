@@ -1,3 +1,19 @@
 site:"example.com"
+------------------------
 inurl:"&"
+inurl:"?"
+inurl:"="
+inurl:"admin"
+inurl:"id"
+inurl:"include"
+inurl:"php?"
+inurl:"dir="
+inurl:"path="
+inurl:"cid?"
+------------------------
 intitle:"index of /"
+allintitle:*.php?filename=*
+allintitle:*.php?logon=*
+allintitle:*.php?page=*
+allintitle:admin.php
+-------------------------
