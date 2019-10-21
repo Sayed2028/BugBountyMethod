@@ -1,6 +1,7 @@
 site:"example.com"
 ------------------------
 inurl:"&"
+inurl:"site©2015"
 inurl:"?"
 inurl:"="
 inurl:"admin"
