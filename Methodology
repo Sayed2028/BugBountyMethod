@@ -8,9 +8,10 @@
  [+] Aquatone
 __________________________________________________________
 =============================
-  2- Information Disclosuer  
+  2- Gather Information
 =============================
  [+] Shodan
+ [+] securityheaders
  [+] github
  [+] Google Dorks
  [+] Nmap
